@@ -5,7 +5,6 @@
 #### 
 
 ## Description
-This project is a site of my-pizza which contains information about my-pizza,my  work and services offered,
 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
