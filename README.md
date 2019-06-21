@@ -27,7 +27,7 @@ To start using this project use the following commands:
 
 
 ##Behavior Driven Development
-**Input Example**: when u visit my-pizza the output should be the
+**Input Example**:
 
 **Output Example**: Landing page
 
