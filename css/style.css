@@ -1,0 +1,255 @@
+@import url("bootstrap.css");
+
+
+
+#nav-bar{
+  float: right;
+  padding-top: 2%;
+  padding-right: 2%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#img2{
+  display: block;
+  vertical-align: middle;
+  margin-left: 20%;
+  margin-top: 5%;
+  width: auto;
+  height: auto;
+}
+#head1{
+  font-family: 'Libre Barcode 39', cursive;
+  padding-top: 60px;
+  padding-left: 35px;
+  font-size: 50px;
+  position: fixed;
+  top: 0;
+}
+#head1 a{
+  color: #000000;
+}
+#list{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  margin-top: -20%;
+  margin-left: 20%;
+  font-size: 70px;
+  width: auto;
+  height: auto;
+}
+#list a{
+  color: #000000;
+}
+#list a:hover{
+  color: #626567;
+  text-decoration: none;
+}
+#img1{
+  width: 320px;
+  height: 250px;
+  padding-top: 50px;
+  padding-left: 50px;
+  position: fixed;
+  top: 0;
+}
+ul {
+  list-style-type: none;
+  background:rgba(0, 0, 0, 0);
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #626567;
+  text-decoration: none;
+
+}
+.test{
+  margin-top: 400px;
+}
+#port1{
+  width: 15%;
+  height: 10%;
+}
+#port2{
+  width: 15%;
+  height: 10%;
+}
+#port3{
+  width: 15%;
+  height: 10%;
+}
+#port4{
+  width: 15%;
+  height: 10%;
+}
+#port5{
+  width: 15%;
+  height: 10%;
+}
+#p1{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+#p2{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+#p3{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+#p4{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+#p5{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+.team-section{
+  overflow: hidden;
+  text-align: center;
+  background: #FFFFFF;
+  padding: 60px;
+}
+.team-section h1{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  margin-top: 150px;
+  margin-bottom: 60px;
+  padding-top: 50px;
+  color: #000000;
+  font-size: 40px;
+  width: 100%
+}
+.border{
+  display: block;
+  margin: auto;
+  width: 160px;
+  height: 5px;
+  background: #FFFFFF;
+  margin-bottom: 40px;
+}
+.border1{
+  display: block;
+  margin: auto;
+  width: 160px;
+  height: 5px;
+  background: #FFFFFF;
+  margin-bottom: 40px;
+}
+.ps{
+  margin-bottom: 40px;
+}
+.ps a{
+  margin: 0 30px;
+  overflow: hidden;
+}
+.section{
+  width: 600px;
+  margin: auto;
+  font-size: 20px;
+  color: #000000;
+  text-align: justify;
+  height: 0;
+  overflow: hidden;
+}
+.section:target{
+  height: auto;
+}
+.name{
+  display: block;
+  margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+.head2{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 60px;
+}
+.head4{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 30px;
+}
+.para1{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.head3{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 60px;
+}
+#slideimg1{
+  width: 80%;
+}
+#slideimg2{
+  width: 80%;
+}
+#slideimg3{
+  width: 80%;
+}
+.button-holder{
+  font-family: 'Poppins', sans-serif;
+  font-size: 70px;
+  margin-top: 10%;
+  text-align: center;
+  position: relative;
+  color: #000000;
+}
+.button-holder a:hover{
+  color: #626567;
+  text-decoration: none;
+}
+.row1{
+  padding-top: 10px;
+  padding-left: 200px;
+}
+.twitter{
+  width: 30%;
+}
+.fb{
+  width: 30%;
+}
+.pin{
+  width: 30%;
+}
+.ig{
+  width: 30%;
+}
+.foot{
+  background-color: #000000;
+}
+#contact{
+  color: #FFFFFF;
+}
